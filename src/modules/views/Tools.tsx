@@ -5,7 +5,7 @@ import Container from "@mui/material/Container";
 import Typography from "../../components/Typography";
 import { Tools } from "../../skin/index";
 import ToolsStyles from "../../styles/ToolsStyles";
-
+import React from 'react'
 const Tools: FC<Tools> = ({ tools, backgroundImage, backgroundColor }) => {
   return (
     <Box

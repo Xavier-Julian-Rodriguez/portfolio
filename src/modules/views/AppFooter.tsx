@@ -5,7 +5,7 @@ import Box from "@mui/material/Box";
 import sharedFooterStyles from "../../styles/AppFooterStyles";
 import { SxProps, Theme } from "@mui/system";
 import { Link } from "@mui/material";
-
+import React from 'react'
 // Define the props type for AppFooter
 interface FooterProps {
   backgroundColor: string | undefined;

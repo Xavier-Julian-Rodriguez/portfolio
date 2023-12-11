@@ -3,7 +3,7 @@ import AppBar from "../../components/AppBar";
 import Toolbar from "../../components/Toolbar";
 import Typography from "../../components/Typography";
 import { FC } from "react";
-
+import React from 'react'
 export interface Props {
   title: string;
 }

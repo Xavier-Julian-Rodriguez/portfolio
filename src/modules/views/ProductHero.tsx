@@ -3,7 +3,7 @@ import Typography from "@mui/material/Typography";
 import ProductHeroLayout from "../../components/ProductHeroLayout";
 import { Product } from "../../skin/index";
 import ProductHeroStyles from "../../styles/ProductHeroStyles";
-
+import React from 'react'
 const ProductHero: FC<Product> = ({
   title,
   description,
