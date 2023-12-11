@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src", "./src/components/ProductHeroLayout.tsx"],
+  "include": ["src", "./src/components/ProductHeroLayout.tsx", "main.tsx"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
