@@ -9,7 +9,6 @@ import CardMedia from "@mui/material/CardMedia";
 import { CardActionArea } from "@mui/material";
 import HandleClick from "../../utils/HandleClick";
 import Project from "../../styles/Projects";
-import React from 'react'
 const Projects: FC<Projects> = ({
   projects,
   backgroundColor,

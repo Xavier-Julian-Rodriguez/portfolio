@@ -1,4 +1,4 @@
-import React from 'react'import Skin from "./skin";
+import Skin from "./skin";
 import fav from "./assets/favicon.ico";
 import HeroBackground from "./assets/heroBackground.png";
 import toolsTechSkilss from "./assets/toolsTechSkills.png";

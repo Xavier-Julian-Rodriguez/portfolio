@@ -2,7 +2,6 @@ import ReactMarkdown from "markdown-to-jsx";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 import Link from "@mui/material/Link";
-import React from 'react'
 interface MarkdownProps {
   children: string;
   // Include other props here if needed

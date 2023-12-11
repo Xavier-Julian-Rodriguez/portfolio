@@ -6,7 +6,6 @@ import MuiTextField, {
 } from "@mui/material/TextField";
 import { selectClasses } from "@mui/material/Select";
 import { inputLabelClasses } from "@mui/material/InputLabel";
-import React from 'react'
 const inputStyleMappingClasses = {
   small: "OnePirateTextField-inputSizeSmall",
   medium: "OnePirateTextField-inputSizeMedium",

@@ -1,4 +1,3 @@
-import React from 'react'
 import AppFooter from "./modules/views/AppFooter";
 import ProductHero from "./modules/views/ProductHero";
 import Tools from "./modules/views/Tools";

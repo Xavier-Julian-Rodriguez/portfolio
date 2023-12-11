@@ -5,7 +5,6 @@ import { Contact } from "../../skin/index";
 import contactStyles from "../../styles/ContactStyles";
 import Button from "../../components/Button";
 import Box from "@mui/material/Box";
-import React from 'react'
 const Contact: FC<Contact> = ({ title, description, url, backgroundColor }) => {
   return (
     <Box
